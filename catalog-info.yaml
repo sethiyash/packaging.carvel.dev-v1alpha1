@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: sethiyash/xyz
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: xyz
 spec:
   type: service
   lifecycle: experimental
