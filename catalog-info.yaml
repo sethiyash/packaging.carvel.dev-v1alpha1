@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "xyz"
+  name: "packaging.carvel.dev/v1alpha1"
   description: ""
   annotations:
     github.com/project-slug: sethiyash/xyz
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-id: xyz
+    backstage.io/kubernetes-id: packaging.carvel.dev/v1alpha1
 spec:
   type: service
   lifecycle: experimental
